@@ -6,4 +6,6 @@ Noisy signal:
 ![image](https://github.com/danielzml/Linear-Least-Squares---Denoising/assets/107761315/0933cbf4-ed83-4228-b8d4-0c365fa4f8a3)
 
 Denoised signals:
-![image](https://github.com/danielzml/Linear-Least-Squares-Signal-Denoising/assets/107761315/c75ddb7e-704f-4114-aca1-32d33422b0e5)
+![image](https://github.com/danielzml/Signal-Denoising/assets/107761315/23fac22b-d4b3-438f-90b6-2027a57027cf)
+
+

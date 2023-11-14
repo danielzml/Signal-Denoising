@@ -1,6 +1,6 @@
 # Weighted Least Squares - Signal Denoising
 
-In this project, we denoise a signal by applying an iterative least squares algorithm, using different regularisation parameters and a set of weights which are also updated iteratively. Without these weights, when the regularisation parameter is large, the objective function would be too sensitive to sudden jumps in the dataset that are clearly not caused by noise. The algorithm terminates after 100 iterations. 
+In this project, we denoise a signal by applying an iterative least squares algorithm, using different regularisation parameters and a set of weights. Without these weights, when the regularisation parameter is large, the objective function would be too sensitive to sudden jumps in the dataset that are clearly not caused by noise, resulting in a denoised signal that is very smooth but deviates from the actual data. The algorithm terminates after 100 iterations. 
 
 Noisy signal:
 ![image](https://github.com/danielzml/Signal-Denoising/assets/107761315/37188bba-70ad-40a7-b761-eb8ac36817aa)

@@ -8,4 +8,4 @@ Noisy signal:
 Denoised signals:
 ![image](https://github.com/danielzml/Signal-Denoising/assets/107761315/23fac22b-d4b3-438f-90b6-2027a57027cf)
 
-
+Coursework graded at 95%.

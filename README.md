@@ -1,3 +1,5 @@
+Imperial College London MATH60005 Optimisation group coursework, graded at 95%.
+
 # Weighted Least Squares - Signal Denoising
 
 The dataset is denoised with an iteratively reweighted least squares algorithm, using different regularisation parameters. Without these weights, when the regularisation parameter is large, the objective function would be too sensitive to sudden jumps in the dataset that are clearly not caused by noise, resulting in a denoised signal that is very smooth but does not fit the data. The algorithm terminates after 100 iterations. 
@@ -8,4 +10,3 @@ Noisy signal:
 Denoised signals:
 ![image](https://github.com/danielzml/Signal-Denoising/assets/107761315/23fac22b-d4b3-438f-90b6-2027a57027cf)
 
-Coursework graded at 95%.

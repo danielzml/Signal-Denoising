@@ -1,4 +1,4 @@
-Imperial College London MATH60005 Optimisation coursework, graded at 95%.
+Imperial College London MATH60005 Optimisation coursework graded at 95%.
 
 # Weighted Least Squares - Signal Denoising
 
